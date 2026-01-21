@@ -59,14 +59,17 @@ title: Resume
 ### Freelance Technical Writer — NIIT, New Delhi, India, (Jun 2003 – Nov 2003)
 - Wrote chapters for books related to Internet technologies and desktop environments.
 - Created assessment questions.
+ 
 ---
 
 ### Technical Writer, Cybermedia, Gurgaon, India, (Mar 2003 – May 2003)
 - Updated content to align with new template structures.
+ 
 ---
 
 ### Systems Trainee — NIIT, New Delhi, India (Jul 2000 – Jul 2001)
-- Developed interactive storyboards containing text, graphics, animations, and audio for school courseware. 
+- Developed interactive storyboards containing text, graphics, animations, and audio for school courseware.
+ 
 ---
 
 ## Skills
@@ -81,6 +84,7 @@ title: Resume
 - Standard Operating Procedures Writing
 - Style Guide Development
 - GenAI Prompting and AI-Assisted Content Creation
+
 ---
 
 ## Tools and Technologies
@@ -159,6 +163,7 @@ Adobe Authorware, Adobe Dreamweaver, WordPress
 - Learning to Write Marketing Copy
 - Online Marketing Foundations
 - Freelancing Foundations
+
 ---
 ### Links
 https://linkedin.com/in/connectwithrima
