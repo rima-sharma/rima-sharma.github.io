@@ -3,11 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Rima
-
 I'm a technical writer and editor based in Liverpool with 18 years of experience. My expertise lies in delivering accurate, concise, and user-friendly content in visually appealing formats. I've worked in corporate environments and as an independent freelancer. Transitioning to freelancing after 13 years in full-time technical writing roles strengthened my ability to manage projects autonomously and deliver high-quality results. I'm also a top-rated freelancer on Upwork with a 100% success rate.
 
-## Skills
+# Skills
 
 - Technical Writing
 - Content Writing
@@ -21,13 +19,13 @@ I'm a technical writer and editor based in Liverpool with 18 years of experience
 - Style Guide Development
 - GenAI Prompting and AI-Assisted Content Creation
 
-## Explore My Work
+# Explore My Work
 
 - [Samples](samples.md)
 - [Resume](resume.md)
 
-## Get in Touch
+# Get in Touch
 
-- Email: sharmarima@icloud.com  
-- LinkedIn: https://linkedin.com/in/connectwithrima  
-- GitHub: https://github.com/rima-sharma
+- [Email](mailto:sharmarima@icloud.com)
+- [LinkedIn](https://linkedin.com/in/connectwithrima)
+- [Upwork] (https://www.upwork.com/freelancers/%7E01e8fcdd5940f0b326)
