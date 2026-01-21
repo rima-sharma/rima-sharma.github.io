@@ -28,4 +28,4 @@ I'm a technical writer and editor based in Liverpool with 18 years of experience
 
 - [Email](mailto:sharmarima@icloud.com)
 - [LinkedIn](https://linkedin.com/in/connectwithrima)
-- [Upwork] (https://www.upwork.com/freelancers/%7E01e8fcdd5940f0b326)
+- [Upwork](https://www.upwork.com/freelancers/%7E01e8fcdd5940f0b326)
