@@ -22,6 +22,7 @@ title: Resume
 - Completed training and certifications related to Yoga, Prenatal Yoga, Neuro-Linguistic Programming (NLP), and Ayurvedic Abhyanga and Prenatal massages.
 
 ---
+
 ### Senior Technical Writer, Cisco, Pune, India (Jan 2013 – Jan 2018)
 - Managed documentation for Cisco Cloud Services Platform 2100, Cisco ENCS, Cisco Nexus 1000V, and Cisco Virtual Security Gateway.
 - Worked remotely from Pune and collaborated with engineering, QA, and documentation teams in India and the USA.
@@ -59,17 +60,17 @@ title: Resume
 ### Freelance Technical Writer — NIIT, New Delhi, India, (Jun 2003 – Nov 2003)
 - Wrote chapters for books related to Internet technologies and desktop environments.
 - Created assessment questions.
- 
+
 ---
 
 ### Technical Writer, Cybermedia, Gurgaon, India, (Mar 2003 – May 2003)
 - Updated content to align with new template structures.
- 
+
 ---
 
 ### Systems Trainee — NIIT, New Delhi, India (Jul 2000 – Jul 2001)
 - Developed interactive storyboards containing text, graphics, animations, and audio for school courseware.
- 
+
 ---
 
 ## Skills
