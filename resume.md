@@ -98,17 +98,17 @@ Adobe Authorware, Adobe Dreamweaver, WordPress
 
 # Education
 
-- **Master of Science in Information Technology** — KSOU, Mysore, India (2004)  
-- **Bachelor of Arts in English Literature** — Guru Nanak Girls College, Panjab University (1999)
+- **Master of Science in Information Technology**, KSOU, Mysore, India (2004)  
+- **Bachelor of Arts in English Literature**, Guru Nanak Girls College, Panjab University (1999)
 
 # Certifications
 
-- How to Write Effortless Quality Procedures & SOPs for ISO — Udemy (2025)  
-- Fundamentals of UX Writing — UX Content Collective (2025)  
-- Proofreading & Editing Diploma — Center of Excellence, UK (2020)  
-- Fundamentals of Digital Marketing — Google EMEA (2020)  
-- GNIIT Diploma in Systems Management — NIIT Ltd., New Delhi (2003)  
-- Microsoft Certified Solution Developer —  Microsoft (2001)
+- How to Write Effortless Quality Procedures & SOPs for ISO, Udemy (2025)  
+- Fundamentals of UX Writing, UX Content Collective (2025)  
+- Proofreading & Editing Diploma, Center of Excellence, UK (2020)  
+- Fundamentals of Digital Marketing, Google EMEA (2020)  
+- GNIIT Diploma in Systems Management, NIIT, New Delhi (2003)  
+- Microsoft Certified Solution Developer, Microsoft (2001)
 
 # LinkedIn Courses
 
@@ -138,6 +138,7 @@ Adobe Authorware, Adobe Dreamweaver, WordPress
 
 ---
 # Links
+
 https://linkedin.com/in/connectwithrima
 
 https://www.rimasharma.com
