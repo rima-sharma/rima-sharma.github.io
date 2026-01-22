@@ -3,8 +3,6 @@
 title: Resume
 ---
 
-<link rel="stylesheet" href="/custom.css">
-
 <div class="sidebar">
 
 # Rima Sharma
