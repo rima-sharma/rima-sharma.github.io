@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-I'm a technical writer and editor based in Liverpool with 18 years of experience. My expertise lies in delivering accurate, concise, and user-friendly content in visually appealing formats. I've worked in corporate environments and as an independent freelancer. Transitioning to freelancing after 13 years in full-time technical writing roles strengthened my ability to manage projects autonomously and deliver high-quality results. I'm also a top-rated freelancer on Upwork with a 100% success rate.
+I'm a technical writer and editor based in Liverpool with 18 years of experience. My expertise lies in delivering accurate, concise, and user-friendly content in visually appealing formats. 
+
+I've worked in corporate environments and as an independent freelancer. Transitioning to freelancing after 13 years in full-time technical writing roles has strengthened my ability to manage projects autonomously and deliver high-quality results. I'm also a top-rated freelancer on Upwork with a 100% success rate.
 
 # Skills
 
@@ -21,7 +23,7 @@ I'm a technical writer and editor based in Liverpool with 18 years of experience
 
 # Explore My Work
 
-- [Samples](samples.md)
+- [Samples](https://rimasharma.com/portfolio/)
 - [Resume](resume.md)
 
 # Get in Touch
