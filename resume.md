@@ -23,7 +23,7 @@ title: Resume
 - Participated in the content-migration testing and converted guides to DITA XML.
 - Performed peer reviews and mentored junior team members
 
-### Senior Technical Writer / Technical Writer, Synopsys, Bangalore, India (Feb 2009 – Dec 2012)
+### Senior Technical Writer/Technical Writer, Synopsys, Bangalore, India (Feb 2009 – Dec 2012)
 - Managed documentation for DWC Ethernet MAC Universal, DWC XGMAC 10G Ethernet MAC, DWC Ethernet PCS Layer, Ethernet Verification IP, and I2C Verification IP.
 - Collaborated with engineering, QA, and documentation teams in India and the USA.
 - Authored Databooks, Installation Guides, User Guides, and Release Notes.
@@ -35,21 +35,21 @@ title: Resume
 - Identified documentation improvement areas through support cases and implemented resolutions.
 - Interviewed and mentored new team members.
 
-### Senior Technical Writer / Technical Writer, Oracle, Bangalore, India (Oct 2004 – Mar 2008)
+### Senior Technical Writer/Technical Writer, Oracle, Bangalore, India (Oct 2004 – Mar 2008)
 - Managed documentation for Oracle SOA Suite, Oracle ESB, Oracle Application Server Adapters, and Oracle Application Server Integration InterConnect.
 - Collaborated with engineering, QA, and documentation teams in India and the USA.
 - Authored Administrator Guides, Developer Guides, User Guides, Quick Start Guides, and Installation Guides.
 - Created online help and wrote UI text for Oracle Enterprise Manager and Oracle JDeveloper.
 - Created Readme files, Release Notes, and Patch Set Notes.
 
-### Freelance Technical Writer — NIIT, New Delhi, India, (Jun 2003 – Nov 2003)
+### Freelance Technical Writer, NIIT, New Delhi, India (Jun 2003 – Nov 2003)
 - Wrote chapters for books related to Internet technologies and desktop environments.
 - Created assessment questions.
 
-### Technical Writer, Cybermedia, Gurgaon, India, (Mar 2003 – May 2003)
+### Technical Writer, Cybermedia, Gurgaon, India (Mar 2003 – May 2003)
 - Updated content to align with new template structures.
 
-### Systems Trainee — NIIT, New Delhi, India (Jul 2000 – Jul 2001)
+### Systems Trainee, NIIT, New Delhi, India (Jul 2000 – Jul 2001)
 - Developed interactive storyboards containing text, graphics, animations, and audio for school courseware.
 
 # Skills
