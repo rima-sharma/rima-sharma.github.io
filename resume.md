@@ -138,9 +138,9 @@ Adobe Authorware, Adobe Dreamweaver, WordPress
 
 ---
 # Links
-[LinkedIn](https://linkedin.com/in/connectwithrima)
 
-[Website](https://www.rimasharma.com)
+- [LinkedIn](https://linkedin.com/in/connectwithrima)
+- [Website](https://www.rimasharma.com)
 
 ---
 # Download Resume
