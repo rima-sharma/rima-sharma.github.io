@@ -3,17 +3,6 @@
 title: Resume
 ---
 
-<div class="sidebar">
-
-# Rima Sharma
-## Documentation Professional
-
-<a href="https://github.com/rima-sharma" class="github-link">
-View My GitHub Profile
-</a>
-
-</div>
-
 # Work Experience
 ---
 ## Freelance Technical Writer and Editor, Goa, India, and Liverpool, UK (Mar 2020 – Dec 2025)
