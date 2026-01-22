@@ -1,7 +1,20 @@
+
 ---
-layout: default
 title: Resume
 ---
+
+<link rel="stylesheet" href="/custom.css">
+
+<div class="sidebar">
+
+# Rima Sharma
+## Documentation Professional
+
+<a href="https://github.com/rima-sharma" class="github-link">
+View My GitHub Profile
+</a>
+
+</div>
 
 # Work Experience
 ---
