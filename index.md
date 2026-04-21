@@ -3,13 +3,11 @@ layout: default
 title: Home
 ---
 
-# Rima Sharma
-
 I am a technical writer and editor based in Liverpool, UK. This page includes documentation samples in Markdown format, reflecting a docs-as-code approach using Git workflows. For a more visual portfolio, visit:
 
 [https://rimasharma.com/portfolio/](https://rimasharma.com/portfolio/)
 
-### REST API Documentation
+# REST API Guide
 [Network Services Hub REST API Guide](Network_Services_Hub_REST_API_Guide.md)
 
 A developer-focused REST API guide covering API authentication method, endpoint structure, request parameters, and response formats. It includes request and response examples to show how developers can use the API to automate configuration and management tasks.
@@ -18,14 +16,14 @@ To complement the written documentation, I also created an OpenAPI specification
 
 ---
 
-### Configuration Guide
+# Configuration Guide
 [Network Services Hub Configuration Guide](Network_Services_Hub_Config_Guide.md)
 
 A configuration guide containing conceptual and task-based topics. It demonstrates my ability to present complex technical information in clear, structured, and easy-to-follow documentation.
 
 ---
 
-## Contact
+# Contact
 
 * [Email](mailto:sharmarima@icloud.com)
 * [LinkedIn](https://linkedin.com/in/connectwithrima)
