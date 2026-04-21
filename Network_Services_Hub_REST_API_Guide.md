@@ -218,6 +218,7 @@ GET
 Retrieves configuration details of a RADIUS server.
 
 #### Path Parameters
+
 | Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | serverAddress | string | Yes | IPv4 address of the RADIUS server | 
@@ -342,6 +343,7 @@ GET
 Retrieves the current LLDP state for a physical network interface.
 
 #### Path Parameters
+
 | Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | interfaceName | string | Yes | Name of the physical network interface | 
@@ -375,11 +377,13 @@ PATCH
 Configures the LLDP state for a physical network interface.
 
 #### Path Parameters
+
 | Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | interfaceName | string | Yes | Name of the physical network interface | 
 
 #### Request Parameters
+
 | Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | lldp | string | Yes | LLDP state (enabled or disabled) | 
@@ -427,6 +431,7 @@ POST
 Saves the current running configuration to a file in the Network Services Hub repository.
 
 #### Request Parameters
+
 | Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | fileName | string | Yes | Name of the configuration file | 
@@ -462,6 +467,7 @@ Loads a saved configuration file from the repository and applies it to the Netwo
 Hub.
 
 #### Request Parameters
+
 | Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | fileName | string | Yes | Name of the configuration file | 
