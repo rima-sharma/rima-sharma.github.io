@@ -7,8 +7,7 @@
 **Owner:** Rima Sharma
 
 ---
-
-This sample REST API guide is created for portfolio purposes. All endpoints, server URLs, and payloads represent a fictional network environment.
+> This sample REST API guide is created for portfolio purposes. All endpoints, server URLs, and payloads represent a fictional network environment.
 
 ## Overview
 
