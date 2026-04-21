@@ -3,31 +3,34 @@ layout: default
 title: Home
 ---
 
-I specialise in developer and end-user documentation for enterprise software, hardware, and IP products. I am skilled at collaborating with distributed teams and delivering documentation in full-time and consulting engagements.
+# Rima Sharma
 
-# Domain Experience
-- Cloud Networking, Virtualisation (Cisco)
-- Semiconductor Interface IP, Verification IP (Synopsys)
-- Enterprise Integration, Middleware, RDBMS (Oracle)
+Technical Writer | Developer Documentation
 
-# Core Competencies
-- **Product Documentation**
+This page includes documentation samples in Markdown format, reflecting a docs-as-code approach using Git workflows. For a more visual portfolio, visit:
+https://rimasharma.com/portfolio/
 
-  API Documentation, Command References, Developer Guides, Hardware/Software Installation Guides, Configuration Guides, Quick Start Guides, Databooks, Online Help, ReadMe files, Release Notes
+### REST API Documentation
+[Network Services Hub REST API Guide](Network_Services_Hub_REST_API_Guide.md)
 
-- **Information Architecture**
+A developer-focused REST API guide covering API authentication method, endpoint structure, request parameters, and response formats. It includes request and response examples to show how developers can use the API to automate configuration and management tasks.
 
-  DITA, Information Mapping
+To complement the written documentation, I also created an OpenAPI specification for the API and generated [interactive Swagger documentation](https://app.swaggerhub.com/apis-docs/rimasorg/Network-Services-Hub/1.0?view=uiDocs). The live Swagger interface allows users to explore endpoints and view request and response schemas.
 
-# Explore My Work
+---
 
-- [Samples](https://rimasharma.com/portfolio/)
-- [REST API Guide](Network_Services_Hub_REST_API_Guide.md)
-- [Resume](resume.md)
+### Configuration Guide
+[Network Services Hub Configuration Guide](Network_Services_Hub_Config_Guide.md)
 
-# Get in Touch
+A configuration guide containing conceptual and task-based topics. It demonstrates my ability to present complex technical information in clear, structured, and easy-to-follow documentation.
 
-- [Email](mailto:sharmarima@icloud.com)
-- [LinkedIn](https://linkedin.com/in/connectwithrima)
-- [Website](www.rimasharma.com)
-- [Upwork](https://www.upwork.com/freelancers/%7E01e8fcdd5940f0b326)
+---
+
+## Contact
+
+* [Email](mailto:sharmarima@icloud.com)
+* [LinkedIn](https://linkedin.com/in/connectwithrima)
+* [Website](www.rimasharma.com)
+* [Upwork](https://www.upwork.com/freelancers/%7E01e8fcdd5940f0b326)
+
+
