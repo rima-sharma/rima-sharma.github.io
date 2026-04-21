@@ -137,7 +137,7 @@ Registers a new RADIUS server for centralized authentication and accounting serv
 
 #### Request Parameters
 
-| Parameter |  Type | Required | Description |
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | address |  string | Yes | IPv4 address of the RADIUS server. | 
 | key |  string | Yes |  The encryption mode of the associated secret. The value 0 means clear text (unencrypted), and the value 7 means encrypted (proprietary format). | 
@@ -258,7 +258,8 @@ DELETE
 Deletes the specified RADIUS server from the system configuration.
 
 #### Path Parameters
-| Parameter |  Type | Required | Description |
+
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | serverAddress | string | Yes | IPv4 address of the RADIUS server | 
 
@@ -291,7 +292,7 @@ Configures the duration to wait for a response from the RADIUS server before dec
 
 #### Request Parameters
 
-| Parameter |  Type | Required | Description |
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | timeout | integer | Yes | Time in seconds to wait for a server response |
 | retransmit | integer | Yes | Number of retry attempts before reverting to local authentication |
@@ -341,7 +342,7 @@ GET
 Retrieves the current LLDP state for a physical network interface.
 
 #### Path Parameters
-| Parameter |  Type | Required | Description |
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | interfaceName | string | Yes | Name of the physical network interface | 
 
@@ -374,12 +375,12 @@ PATCH
 Configures the LLDP state for a physical network interface.
 
 #### Path Parameters
-| Parameter |  Type | Required | Description |
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | interfaceName | string | Yes | Name of the physical network interface | 
 
 #### Request Parameters
-| Parameter |  Type | Required | Description |
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | lldp | string | Yes | LLDP state (enabled or disabled) | 
 
@@ -426,7 +427,7 @@ POST
 Saves the current running configuration to a file in the Network Services Hub repository.
 
 #### Request Parameters
-| Parameter |  Type | Required | Description |
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | fileName | string | Yes | Name of the configuration file | 
 
@@ -461,7 +462,7 @@ Loads a saved configuration file from the repository and applies it to the Netwo
 Hub.
 
 #### Request Parameters
-| Parameter |  Type | Required | Description |
+| Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
 | fileName | string | Yes | Name of the configuration file | 
 
