@@ -221,7 +221,7 @@ Retrieves configuration details of a RADIUS server.
 
 | Parameter | Type | Required | Description |
 | :--- | :--- |:--- |:--- |
-| serverAddress | string | Yes | IPv4 address of the RADIUS server | 
+| serverAddress |  string | Yes | IPv4 address of the RADIUS server. | 
 
 #### Request Example
 ```bash
