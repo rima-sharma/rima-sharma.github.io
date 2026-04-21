@@ -5,10 +5,9 @@ title: Home
 
 # Rima Sharma
 
-Technical Writer | Developer Documentation
+I am a technical writer and editor based in Liverpool, UK. This page includes documentation samples in Markdown format, reflecting a docs-as-code approach using Git workflows. For a more visual portfolio, visit:
 
-This page includes documentation samples in Markdown format, reflecting a docs-as-code approach using Git workflows. For a more visual portfolio, visit:
-https://rimasharma.com/portfolio/
+[https://rimasharma.com/portfolio/](https://rimasharma.com/portfolio/)
 
 ### REST API Documentation
 [Network Services Hub REST API Guide](Network_Services_Hub_REST_API_Guide.md)
