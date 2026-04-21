@@ -394,7 +394,12 @@ curl -u admin:password -X PATCH https://nsh.example.com/api/nsh/network/interfac
 HTTP/1.1 200 OK
 Content-Type: application/json
 ```
-```json{"interface": "eth0","lldp": "enabled","message": "LLDP configuration successfully updated"}
+```json
+{
+"interface": "eth0",
+"lldp": "enabled",
+"message": "LLDP configuration successfully updated"
+}
 ```
 ---
 
@@ -436,7 +441,10 @@ curl -u admin:password -X POST https://nsh.example.com/api/nsh/configuration/sav
 HTTP/1.1 200 OK
 Content-Type: application/json
 ```
-```json{"message": "Configuration successfully saved"}
+```json
+{
+"message": "Configuration successfully saved"
+}
 ```
 ---
 
@@ -449,7 +457,8 @@ POST
 /api/nsh/configuration/load
 
 #### Description
-Loads a saved configuration file from the repository and applies it to the Network ServicesHub.
+Loads a saved configuration file from the repository and applies it to the Network Services
+Hub.
 
 #### Request Parameters
 | Parameter |  Type | Required | Description |
@@ -467,6 +476,8 @@ curl -u admin:password -X POST https://nsh.example.com/api/nsh/configuration/loa
 HTTP/1.1 200 OK
 Content-Type: application/json
 ```
-```json{"message": "Configuration successfully loaded"}
+```json
+{
+"message": "Configuration successfully loaded"
+}
 ```
----
