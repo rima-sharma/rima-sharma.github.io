@@ -1,8 +1,6 @@
 # Rima Sharma — Portfolio
 
-This repository works as my personal portfolio website, built using **Markdown and GitHub Pages**.
-
-The site presents a curated overview of my professional work as a **Technical Writer and Editor**, including documentation samples, experience highlights, and resume information. It is intentionally content-first, lightweight, and easy to maintain using a docs-as-code approach.
+This site works as my personal portfolio website, built using **Markdown and GitHub Pages**.
 
 ## About the Site
 
